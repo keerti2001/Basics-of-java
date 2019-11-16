@@ -1,1 +1,1 @@
-# Bsics-of-java
+# Basics-of-java
